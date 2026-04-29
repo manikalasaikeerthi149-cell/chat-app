@@ -69,6 +69,19 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-### App Screenshot
+## 📸 Project Preview
 
-<img width="1920" height="1080" alt="Screenshot (68)" src="https://github.com/user-attachments/assets/8217c33a-c96d-43c9-bddb-b6e264e5eb96" />
+This is a real-time chat application built using React and Node.js.  
+Users can send messages and receive instant replies from a bot.
+
+### 💬 Chat Interface
+<img width="1920" height="1080" alt="Screenshot (72)" src="https://github.com/user-attachments/assets/00284ca9-922f-451a-93da-027fa24aeb93" />
+
+
+### 🤖 Bot Response
+<img width="1920" height="1080" alt="Screenshot (71)" src="https://github.com/user-attachments/assets/4e03da25-2c03-4e42-8b15-19707dfb93c7" />
+
+
+### 🏠 Home Page
+<img width="1920" height="1080" alt="Screenshot (69)" src="https://github.com/user-attachments/assets/6d29e243-0f0d-49e3-91b8-e3e8e0cfe29e" />
+
